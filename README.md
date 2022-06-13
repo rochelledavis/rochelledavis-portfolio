@@ -1,4 +1,4 @@
-# Rochelle Davis Portfolio
+# Rochelle Davis: Portfolio
 
 This React app displays some of my favorite projects so far. Looking forward to polishing it up a bit more!
 
