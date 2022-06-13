@@ -4,4 +4,4 @@ This React app displays some of my favorite projects so far. Looking forward to 
 
 ## Usage
 
-You can view my protfolio at https://rochelledavis.github.io/rochelledavis-portfolio/
+You can view my portfolio at https://rochelledavis.github.io/rochelledavis-portfolio/
