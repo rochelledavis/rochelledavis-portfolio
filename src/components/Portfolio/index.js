@@ -3,6 +3,8 @@ import TriviaPage from "../../assets/Triviapage.png";
 import BTS from "../../assets/BetterThanStack.png";
 import NoteTaker from "../../assets/NoteTaker.png";
 import RunBuddy from "../../assets/runbuddy.png";
+import WorkDay from "../../assets/WorkDayScheduler.png";
+import TeamMembers from "../../assets/GenerateTeamMembers.png";
 
 function Portfolio() {
   return (
@@ -23,6 +25,13 @@ function Portfolio() {
 
       <a href="https://github.com/rochelledavis/run-buddy">
         <img src={RunBuddy} alt="Road with a runner tying her shoe" />
+      </a>
+      <br></br>
+      <a href="https://rochelledavis.github.io/scheduler-c5/">
+        <img src={WorkDay} alt="Work Day Scheduler" />
+      </a>
+      <a href="https://github.com/rochelledavis/generate-team-members">
+        <img src={TeamMembers} alt="Organization Team Members Tracker" />
       </a>
     </div>
   );
