@@ -5,11 +5,15 @@ import NoteTaker from "../../assets/NoteTaker.png";
 import RunBuddy from "../../assets/runbuddy.png";
 import WorkDay from "../../assets/WorkDayScheduler.png";
 import TeamMembers from "../../assets/GenerateTeamMembers.png";
+import ForceFit from "../../assets/force-fit.jpg";
 
 function Portfolio() {
   return (
     <div>
       <h2>Portfolio</h2>
+      <a href="https://force-fit-order-66.herokuapp.com/">
+        <img src={ForceFit} alt="Force Fit" />
+      </a>
       <a href="https://jsplish.github.io/Try-My-Trivia/">
         <img src={TriviaPage} alt="trivia quiz" />
       </a>
