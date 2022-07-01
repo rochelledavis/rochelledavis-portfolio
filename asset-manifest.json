@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/rochelledavis-portfolio/static/css/main.9a4b1927.css",
-    "main.js": "/rochelledavis-portfolio/static/js/main.62695132.js",
+    "main.js": "/rochelledavis-portfolio/static/js/main.709065d3.js",
     "static/js/787.7f2d1f9d.chunk.js": "/rochelledavis-portfolio/static/js/787.7f2d1f9d.chunk.js",
     "static/media/RDProfileImage.png": "/rochelledavis-portfolio/static/media/RDProfileImage.01e05d96fab3490d267e.png",
     "static/media/runbuddy.png": "/rochelledavis-portfolio/static/media/runbuddy.ef19d08ba8602164b537.png",
     "static/media/BetterThanStack.png": "/rochelledavis-portfolio/static/media/BetterThanStack.6790af2337f2abe64201.png",
     "static/media/Triviapage.png": "/rochelledavis-portfolio/static/media/Triviapage.2e206e690ca8a05c7af5.png",
+    "static/media/force-fit.jpg": "/rochelledavis-portfolio/static/media/force-fit.d9807df1330299937f1e.jpg",
     "static/media/WorkDayScheduler.png": "/rochelledavis-portfolio/static/media/WorkDayScheduler.8be7bf07a4bdcdb74cb0.png",
     "static/media/NoteTaker.png": "/rochelledavis-portfolio/static/media/NoteTaker.00406620888d66e08715.png",
     "static/media/GenerateTeamMembers.png": "/rochelledavis-portfolio/static/media/GenerateTeamMembers.07d006e74c9e690218ea.png",
     "index.html": "/rochelledavis-portfolio/index.html",
     "main.9a4b1927.css.map": "/rochelledavis-portfolio/static/css/main.9a4b1927.css.map",
-    "main.62695132.js.map": "/rochelledavis-portfolio/static/js/main.62695132.js.map",
+    "main.709065d3.js.map": "/rochelledavis-portfolio/static/js/main.709065d3.js.map",
     "787.7f2d1f9d.chunk.js.map": "/rochelledavis-portfolio/static/js/787.7f2d1f9d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a4b1927.css",
-    "static/js/main.62695132.js"
+    "static/js/main.709065d3.js"
   ]
 }
